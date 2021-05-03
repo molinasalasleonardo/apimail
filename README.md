@@ -1,0 +1,2 @@
+# apimail
+api mail
